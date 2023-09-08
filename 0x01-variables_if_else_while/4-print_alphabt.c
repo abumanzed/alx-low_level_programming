@@ -1,6 +1,6 @@
 /*
  * File: 4-print_alphabt.c
- * Auth: Brennan D Baraban
+ * Auth: Abusew Zemedikun
  */
 
 #include <stdio.h>
